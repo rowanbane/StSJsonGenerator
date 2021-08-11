@@ -1,0 +1,1563 @@
+[
+    {
+        "CardID": 62,
+        "ID": 1,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 62,
+        "ID": 2,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 62,
+        "ID": 3,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 62,
+        "ID": 4,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 19,
+        "ID": 5,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 19,
+        "ID": 6,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 33
+    },
+    {
+        "CardID": 26,
+        "ID": 7,
+        "Modifier": 0,
+        "SynergyModifier": 0.08,
+        "TagID": 2
+    },
+    {
+        "CardID": 26,
+        "ID": 8,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 75,
+        "ID": 9,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 75,
+        "ID": 10,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 75,
+        "ID": 11,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 75,
+        "ID": 12,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 71,
+        "ID": 13,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 47,
+        "ID": 14,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 47,
+        "ID": 15,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 47,
+        "ID": 16,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 34,
+        "ID": 17,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 28
+    },
+    {
+        "CardID": 34,
+        "ID": 18,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 9,
+        "ID": 19,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 9,
+        "ID": 20,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 9,
+        "ID": 21,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 9,
+        "ID": 22,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 42,
+        "ID": 23,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 42,
+        "ID": 24,
+        "Modifier": 0,
+        "SynergyModifier": 0.1,
+        "TagID": 2
+    },
+    {
+        "CardID": 42,
+        "ID": 25,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 42,
+        "ID": 26,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 42,
+        "ID": 27,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 61,
+        "ID": 28,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 28
+    },
+    {
+        "CardID": 61,
+        "ID": 29,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 18
+    },
+    {
+        "CardID": 23,
+        "ID": 30,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 23,
+        "ID": 31,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 23,
+        "ID": 32,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 23,
+        "ID": 33,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 72,
+        "ID": 34,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 72,
+        "ID": 35,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 72,
+        "ID": 36,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 72,
+        "ID": 37,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 70,
+        "ID": 38,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 70,
+        "ID": 39,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 70,
+        "ID": 40,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 30,
+        "ID": 41,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 30,
+        "ID": 42,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 30,
+        "ID": 43,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 30,
+        "ID": 44,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 67,
+        "ID": 45,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 28
+    },
+    {
+        "CardID": 1,
+        "ID": 46,
+        "Modifier": 0,
+        "SynergyModifier": 0.08,
+        "TagID": 32
+    },
+    {
+        "CardID": 35,
+        "ID": 47,
+        "Modifier": 0,
+        "SynergyModifier": 0.08,
+        "TagID": 29
+    },
+    {
+        "CardID": 74,
+        "ID": 48,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 14,
+        "ID": 49,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 14,
+        "ID": 50,
+        "Modifier": 0,
+        "SynergyModifier": 0.06,
+        "TagID": 1
+    },
+    {
+        "CardID": 44,
+        "ID": 51,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 44,
+        "ID": 52,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 44,
+        "ID": 53,
+        "Modifier": 0,
+        "SynergyModifier": 0.12,
+        "TagID": 4
+    },
+    {
+        "CardID": 2,
+        "ID": 54,
+        "Modifier": 0,
+        "SynergyModifier": 0.08,
+        "TagID": 2
+    },
+    {
+        "CardID": 48,
+        "ID": 55,
+        "Modifier": 0,
+        "SynergyModifier": 0.08,
+        "TagID": 30
+    },
+    {
+        "CardID": 4,
+        "ID": 56,
+        "Modifier": 0,
+        "SynergyModifier": 0.08,
+        "TagID": 29
+    },
+    {
+        "CardID": 33,
+        "ID": 57,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 33,
+        "ID": 58,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 33,
+        "ID": 59,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 10,
+        "ID": 60,
+        "Modifier": 0,
+        "SynergyModifier": 0.06,
+        "TagID": 29
+    },
+    {
+        "CardID": 10,
+        "ID": 61,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 32,
+        "ID": 62,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 32,
+        "ID": 63,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 32,
+        "ID": 64,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 32,
+        "ID": 65,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 60,
+        "ID": 66,
+        "Modifier": 0,
+        "SynergyModifier": 0.06,
+        "TagID": 30
+    },
+    {
+        "CardID": 60,
+        "ID": 67,
+        "Modifier": 0,
+        "SynergyModifier": 0.06,
+        "TagID": 36
+    },
+    {
+        "CardID": 17,
+        "ID": 68,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 17,
+        "ID": 69,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 69,
+        "ID": 70,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 15,
+        "ID": 71,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 5,
+        "ID": 72,
+        "Modifier": 0,
+        "SynergyModifier": 0.05,
+        "TagID": 19
+    },
+    {
+        "CardID": 56,
+        "ID": 73,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 56,
+        "ID": 74,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 56,
+        "ID": 75,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 43,
+        "ID": 76,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 43,
+        "ID": 77,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 43,
+        "ID": 78,
+        "Modifier": 0,
+        "SynergyModifier": 0.08,
+        "TagID": 6
+    },
+    {
+        "CardID": 43,
+        "ID": 79,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 68,
+        "ID": 80,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 28
+    },
+    {
+        "CardID": 68,
+        "ID": 81,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 68,
+        "ID": 82,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 68,
+        "ID": 83,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 46,
+        "ID": 84,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 46,
+        "ID": 85,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 46,
+        "ID": 86,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 46,
+        "ID": 87,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 37,
+        "ID": 88,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 37,
+        "ID": 89,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 54,
+        "ID": 90,
+        "Modifier": 0,
+        "SynergyModifier": 0.06,
+        "TagID": 1
+    },
+    {
+        "CardID": 28,
+        "ID": 91,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 57,
+        "ID": 92,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 57,
+        "ID": 93,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 57,
+        "ID": 94,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 57,
+        "ID": 95,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 36,
+        "ID": 96,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 2
+    },
+    {
+        "CardID": 36,
+        "ID": 97,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 50,
+        "ID": 98,
+        "Modifier": 0,
+        "SynergyModifier": 0.06,
+        "TagID": 1
+    },
+    {
+        "CardID": 50,
+        "ID": 99,
+        "Modifier": 0,
+        "SynergyModifier": 0.08,
+        "TagID": 6
+    },
+    {
+        "CardID": 39,
+        "ID": 100,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 20,
+        "ID": 101,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 20,
+        "ID": 102,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 18
+    },
+    {
+        "CardID": 31,
+        "ID": 103,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 31,
+        "ID": 104,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 31,
+        "ID": 105,
+        "Modifier": 0,
+        "SynergyModifier": 0.11,
+        "TagID": 3
+    },
+    {
+        "CardID": 31,
+        "ID": 106,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 40,
+        "ID": 107,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 40,
+        "ID": 108,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 40,
+        "ID": 109,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 40,
+        "ID": 110,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 27,
+        "ID": 111,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 22,
+        "ID": 112,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 22,
+        "ID": 113,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 22,
+        "ID": 114,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 59,
+        "ID": 115,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 59,
+        "ID": 116,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 38,
+        "ID": 117,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 38,
+        "ID": 118,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 38,
+        "ID": 119,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 3,
+        "ID": 120,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 3,
+        "ID": 121,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 3,
+        "ID": 122,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 3,
+        "ID": 123,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 52,
+        "ID": 124,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 52,
+        "ID": 125,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 52,
+        "ID": 126,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 52,
+        "ID": 127,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 64,
+        "ID": 128,
+        "Modifier": 0,
+        "SynergyModifier": 0.08,
+        "TagID": 27
+    },
+    {
+        "CardID": 63,
+        "ID": 129,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 63,
+        "ID": 130,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 63,
+        "ID": 131,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 63,
+        "ID": 132,
+        "Modifier": 0,
+        "SynergyModifier": 0.2,
+        "TagID": 33
+    },
+    {
+        "CardID": 63,
+        "ID": 133,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 13,
+        "ID": 134,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 8,
+        "ID": 135,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 19
+    },
+    {
+        "CardID": 8,
+        "ID": 136,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 6,
+        "ID": 137,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 53,
+        "ID": 138,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 53,
+        "ID": 139,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 53,
+        "ID": 140,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 53,
+        "ID": 141,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 12,
+        "ID": 142,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 21,
+        "ID": 143,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 21,
+        "ID": 144,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 18,
+        "ID": 145,
+        "Modifier": 0,
+        "SynergyModifier": 0.06,
+        "TagID": 1
+    },
+    {
+        "CardID": 73,
+        "ID": 146,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 73,
+        "ID": 147,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 73,
+        "ID": 148,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 51,
+        "ID": 149,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 51,
+        "ID": 150,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 51,
+        "ID": 151,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 65,
+        "ID": 152,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 65,
+        "ID": 153,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 65,
+        "ID": 154,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 45,
+        "ID": 155,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 58,
+        "ID": 156,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 58,
+        "ID": 157,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 58,
+        "ID": 158,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 11,
+        "ID": 159,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 11,
+        "ID": 160,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 11,
+        "ID": 161,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 11,
+        "ID": 162,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 41,
+        "ID": 163,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 49,
+        "ID": 164,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 49,
+        "ID": 165,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 39
+    },
+    {
+        "CardID": 49,
+        "ID": 166,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 49,
+        "ID": 167,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 66,
+        "ID": 168,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 66,
+        "ID": 169,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 66,
+        "ID": 170,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 90,
+        "ID": 171,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 91,
+        "ID": 172,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 92,
+        "ID": 173,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 93,
+        "ID": 174,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 95,
+        "ID": 175,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 96,
+        "ID": 176,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 97,
+        "ID": 177,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 98,
+        "ID": 178,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 99,
+        "ID": 179,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 100,
+        "ID": 180,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 101,
+        "ID": 181,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 102,
+        "ID": 182,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 105,
+        "ID": 183,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 106,
+        "ID": 184,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 107,
+        "ID": 185,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 108,
+        "ID": 186,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 109,
+        "ID": 187,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 114,
+        "ID": 188,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 117,
+        "ID": 189,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 118,
+        "ID": 190,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 119,
+        "ID": 191,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 120,
+        "ID": 192,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 122,
+        "ID": 193,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 124,
+        "ID": 194,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 127,
+        "ID": 195,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 21
+    },
+    {
+        "CardID": 111,
+        "ID": 196,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 112,
+        "ID": 197,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 116,
+        "ID": 198,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 121,
+        "ID": 199,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 20
+    },
+    {
+        "CardID": 97,
+        "ID": 200,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 100,
+        "ID": 201,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 106,
+        "ID": 202,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 7
+    },
+    {
+        "CardID": 126,
+        "ID": 203,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 95,
+        "ID": 204,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 98,
+        "ID": 205,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 112,
+        "ID": 206,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 104,
+        "ID": 207,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 128,
+        "ID": 208,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 108,
+        "ID": 209,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 6
+    },
+    {
+        "CardID": 126,
+        "ID": 210,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 95,
+        "ID": 211,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 98,
+        "ID": 212,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 112,
+        "ID": 213,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 104,
+        "ID": 214,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 128,
+        "ID": 215,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 108,
+        "ID": 216,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 35
+    },
+    {
+        "CardID": 126,
+        "ID": 217,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 95,
+        "ID": 218,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 98,
+        "ID": 219,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 112,
+        "ID": 220,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 104,
+        "ID": 221,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 128,
+        "ID": 222,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    },
+    {
+        "CardID": 108,
+        "ID": 223,
+        "Modifier": 0,
+        "SynergyModifier": 0,
+        "TagID": 4
+    }
+]

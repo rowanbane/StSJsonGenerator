@@ -1,0 +1,986 @@
+[
+    {
+        "ID": 1,
+        "Modifier": 4,
+        "RelicID": 19,
+        "TagID": 28
+    },
+    {
+        "ID": 2,
+        "Modifier": 4,
+        "RelicID": 34,
+        "TagID": 11
+    },
+    {
+        "ID": 3,
+        "Modifier": 2,
+        "RelicID": 123,
+        "TagID": 20
+    },
+    {
+        "ID": 4,
+        "Modifier": 2,
+        "RelicID": 130,
+        "TagID": 21
+    },
+    {
+        "ID": 5,
+        "Modifier": 2,
+        "RelicID": 1,
+        "TagID": 35
+    },
+    {
+        "ID": 6,
+        "Modifier": 2,
+        "RelicID": 2,
+        "TagID": 2
+    },
+    {
+        "ID": 7,
+        "Modifier": 2,
+        "RelicID": 3,
+        "TagID": 20
+    },
+    {
+        "ID": 8,
+        "Modifier": 2,
+        "RelicID": 4,
+        "TagID": 20
+    },
+    {
+        "ID": 9,
+        "Modifier": 2,
+        "RelicID": 6,
+        "TagID": 4
+    },
+    {
+        "ID": 10,
+        "Modifier": 3,
+        "RelicID": 7,
+        "TagID": 21
+    },
+    {
+        "ID": 11,
+        "Modifier": 2,
+        "RelicID": 11,
+        "TagID": 28
+    },
+    {
+        "ID": 12,
+        "Modifier": 1,
+        "RelicID": 18,
+        "TagID": 27
+    },
+    {
+        "ID": 13,
+        "Modifier": 2,
+        "RelicID": 25,
+        "TagID": 21
+    },
+    {
+        "ID": 14,
+        "Modifier": 3,
+        "RelicID": 37,
+        "TagID": 16
+    },
+    {
+        "ID": 15,
+        "Modifier": 4,
+        "RelicID": 39,
+        "TagID": 8
+    },
+    {
+        "ID": 16,
+        "Modifier": 3,
+        "RelicID": 65,
+        "TagID": 20
+    },
+    {
+        "ID": 17,
+        "Modifier": 3,
+        "RelicID": 75,
+        "TagID": 20
+    },
+    {
+        "ID": 18,
+        "Modifier": 2,
+        "RelicID": 85,
+        "TagID": 28
+    },
+    {
+        "ID": 19,
+        "Modifier": 1,
+        "RelicID": 101,
+        "TagID": 20
+    },
+    {
+        "ID": 20,
+        "Modifier": 4,
+        "RelicID": 103,
+        "TagID": 7
+    },
+    {
+        "ID": 21,
+        "Modifier": 3,
+        "RelicID": 107,
+        "TagID": 2
+    },
+    {
+        "ID": 22,
+        "Modifier": 2,
+        "RelicID": 116,
+        "TagID": 35
+    },
+    {
+        "ID": 23,
+        "Modifier": 2,
+        "RelicID": 119,
+        "TagID": 23
+    },
+    {
+        "ID": 24,
+        "Modifier": 3,
+        "RelicID": 126,
+        "TagID": 6
+    },
+    {
+        "ID": 25,
+        "Modifier": 2,
+        "RelicID": 127,
+        "TagID": 28
+    },
+    {
+        "ID": 26,
+        "Modifier": 4,
+        "RelicID": 144,
+        "TagID": 17
+    },
+    {
+        "ID": 27,
+        "Modifier": 1,
+        "RelicID": 156,
+        "TagID": 35
+    },
+    {
+        "ID": 28,
+        "Modifier": 1,
+        "RelicID": 156,
+        "TagID": 26
+    },
+    {
+        "ID": 29,
+        "Modifier": 1,
+        "RelicID": 167,
+        "TagID": 23
+    },
+    {
+        "ID": 30,
+        "Modifier": 1,
+        "RelicID": 167,
+        "TagID": 28
+    },
+    {
+        "ID": 31,
+        "Modifier": 4,
+        "RelicID": 172,
+        "TagID": 6
+    },
+    {
+        "ID": 32,
+        "Modifier": 2,
+        "RelicID": 175,
+        "TagID": 33
+    },
+    {
+        "ID": 33,
+        "Modifier": 2,
+        "RelicID": 177,
+        "TagID": 33
+    },
+    {
+        "ID": 34,
+        "Modifier": 2,
+        "RelicID": 13,
+        "TagID": 36
+    },
+    {
+        "ID": 35,
+        "Modifier": 1,
+        "RelicID": 13,
+        "TagID": 27
+    },
+    {
+        "ID": 36,
+        "Modifier": 1,
+        "RelicID": 13,
+        "TagID": 29
+    },
+    {
+        "ID": 37,
+        "Modifier": 3,
+        "RelicID": 44,
+        "TagID": 7
+    },
+    {
+        "ID": 38,
+        "Modifier": 2,
+        "RelicID": 44,
+        "TagID": 1
+    },
+    {
+        "ID": 39,
+        "Modifier": 2,
+        "RelicID": 49,
+        "TagID": 28
+    },
+    {
+        "ID": 40,
+        "Modifier": 2,
+        "RelicID": 53,
+        "TagID": 33
+    },
+    {
+        "ID": 41,
+        "Modifier": 3,
+        "RelicID": 53,
+        "TagID": 25
+    },
+    {
+        "ID": 42,
+        "Modifier": 2,
+        "RelicID": 59,
+        "TagID": 12
+    },
+    {
+        "ID": 43,
+        "Modifier": 2,
+        "RelicID": 59,
+        "TagID": 11
+    },
+    {
+        "ID": 44,
+        "Modifier": 2,
+        "RelicID": 59,
+        "TagID": 14
+    },
+    {
+        "ID": 45,
+        "Modifier": 2,
+        "RelicID": 59,
+        "TagID": 13
+    },
+    {
+        "ID": 46,
+        "Modifier": 3,
+        "RelicID": 62,
+        "TagID": 20
+    },
+    {
+        "ID": 47,
+        "Modifier": 2,
+        "RelicID": 62,
+        "TagID": 21
+    },
+    {
+        "ID": 48,
+        "Modifier": 3,
+        "RelicID": 67,
+        "TagID": 2
+    },
+    {
+        "ID": 49,
+        "Modifier": 1,
+        "RelicID": 71,
+        "TagID": 21
+    },
+    {
+        "ID": 50,
+        "Modifier": 3,
+        "RelicID": 71,
+        "TagID": 18
+    },
+    {
+        "ID": 51,
+        "Modifier": 3,
+        "RelicID": 74,
+        "TagID": 7
+    },
+    {
+        "ID": 52,
+        "Modifier": 3,
+        "RelicID": 74,
+        "TagID": 1
+    },
+    {
+        "ID": 53,
+        "Modifier": 3,
+        "RelicID": 74,
+        "TagID": 18
+    },
+    {
+        "ID": 54,
+        "Modifier": 2,
+        "RelicID": 77,
+        "TagID": 32
+    },
+    {
+        "ID": 55,
+        "Modifier": 4,
+        "RelicID": 86,
+        "TagID": 28
+    },
+    {
+        "ID": 56,
+        "Modifier": 2,
+        "RelicID": 91,
+        "TagID": 33
+    },
+    {
+        "ID": 57,
+        "Modifier": 5,
+        "RelicID": 92,
+        "TagID": 25
+    },
+    {
+        "ID": 58,
+        "Modifier": 3,
+        "RelicID": 92,
+        "TagID": 19
+    },
+    {
+        "ID": 59,
+        "Modifier": 2,
+        "RelicID": 99,
+        "TagID": 18
+    },
+    {
+        "ID": 60,
+        "Modifier": 1,
+        "RelicID": 108,
+        "TagID": 1
+    },
+    {
+        "ID": 61,
+        "Modifier": 3,
+        "RelicID": 111,
+        "TagID": 28
+    },
+    {
+        "ID": 62,
+        "Modifier": 5,
+        "RelicID": 112,
+        "TagID": 5
+    },
+    {
+        "ID": 63,
+        "Modifier": 5,
+        "RelicID": 113,
+        "TagID": 4
+    },
+    {
+        "ID": 64,
+        "Modifier": 3,
+        "RelicID": 136,
+        "TagID": 27
+    },
+    {
+        "ID": 65,
+        "Modifier": 3,
+        "RelicID": 138,
+        "TagID": 6
+    },
+    {
+        "ID": 66,
+        "Modifier": 5,
+        "RelicID": 151,
+        "TagID": 3
+    },
+    {
+        "ID": 67,
+        "Modifier": 1,
+        "RelicID": 152,
+        "TagID": 20
+    },
+    {
+        "ID": 68,
+        "Modifier": 3,
+        "RelicID": 153,
+        "TagID": 12
+    },
+    {
+        "ID": 69,
+        "Modifier": 4,
+        "RelicID": 154,
+        "TagID": 9
+    },
+    {
+        "ID": 70,
+        "Modifier": 3,
+        "RelicID": 178,
+        "TagID": 23
+    },
+    {
+        "ID": 71,
+        "Modifier": 3,
+        "RelicID": 8,
+        "TagID": 25
+    },
+    {
+        "ID": 72,
+        "Modifier": 2,
+        "RelicID": 8,
+        "TagID": 28
+    },
+    {
+        "ID": 73,
+        "Modifier": 4,
+        "RelicID": 21,
+        "TagID": 2
+    },
+    {
+        "ID": 74,
+        "Modifier": 4,
+        "RelicID": 27,
+        "TagID": 4
+    },
+    {
+        "ID": 75,
+        "Modifier": 4,
+        "RelicID": 23,
+        "TagID": 2
+    },
+    {
+        "ID": 76,
+        "Modifier": 4,
+        "RelicID": 28,
+        "TagID": 29
+    },
+    {
+        "ID": 77,
+        "Modifier": 3,
+        "RelicID": 31,
+        "TagID": 2
+    },
+    {
+        "ID": 78,
+        "Modifier": 2,
+        "RelicID": 31,
+        "TagID": 21
+    },
+    {
+        "ID": 79,
+        "Modifier": 3,
+        "RelicID": 31,
+        "TagID": 31
+    },
+    {
+        "ID": 80,
+        "Modifier": 5,
+        "RelicID": 40,
+        "TagID": 29
+    },
+    {
+        "ID": 81,
+        "Modifier": 4,
+        "RelicID": 40,
+        "TagID": 34
+    },
+    {
+        "ID": 82,
+        "Modifier": 5,
+        "RelicID": 43,
+        "TagID": 36
+    },
+    {
+        "ID": 83,
+        "Modifier": 3,
+        "RelicID": 43,
+        "TagID": 6
+    },
+    {
+        "ID": 84,
+        "Modifier": 2,
+        "RelicID": 46,
+        "TagID": 12
+    },
+    {
+        "ID": 85,
+        "Modifier": 2,
+        "RelicID": 46,
+        "TagID": 14
+    },
+    {
+        "ID": 86,
+        "Modifier": 2,
+        "RelicID": 46,
+        "TagID": 11
+    },
+    {
+        "ID": 87,
+        "Modifier": 2,
+        "RelicID": 46,
+        "TagID": 13
+    },
+    {
+        "ID": 88,
+        "Modifier": 4,
+        "RelicID": 46,
+        "TagID": 27
+    },
+    {
+        "ID": 89,
+        "Modifier": 4,
+        "RelicID": 51,
+        "TagID": 38
+    },
+    {
+        "ID": 90,
+        "Modifier": 4,
+        "RelicID": 56,
+        "TagID": 24
+    },
+    {
+        "ID": 91,
+        "Modifier": 4,
+        "RelicID": 56,
+        "TagID": 21
+    },
+    {
+        "ID": 92,
+        "Modifier": 3,
+        "RelicID": 57,
+        "TagID": 38
+    },
+    {
+        "ID": 93,
+        "Modifier": 5,
+        "RelicID": 58,
+        "TagID": 6
+    },
+    {
+        "ID": 94,
+        "Modifier": 5,
+        "RelicID": 60,
+        "TagID": 22
+    },
+    {
+        "ID": 95,
+        "Modifier": 5,
+        "RelicID": 69,
+        "TagID": 20
+    },
+    {
+        "ID": 96,
+        "Modifier": 3,
+        "RelicID": 69,
+        "TagID": 19
+    },
+    {
+        "ID": 97,
+        "Modifier": 2,
+        "RelicID": 69,
+        "TagID": 18
+    },
+    {
+        "ID": 98,
+        "Modifier": 4,
+        "RelicID": 70,
+        "TagID": 38
+    },
+    {
+        "ID": 99,
+        "Modifier": 5,
+        "RelicID": 78,
+        "TagID": 28
+    },
+    {
+        "ID": 100,
+        "Modifier": 3,
+        "RelicID": 79,
+        "TagID": 28
+    },
+    {
+        "ID": 101,
+        "Modifier": 2,
+        "RelicID": 118,
+        "TagID": 21
+    },
+    {
+        "ID": 102,
+        "Modifier": 4,
+        "RelicID": 158,
+        "TagID": 17
+    },
+    {
+        "ID": 103,
+        "Modifier": 4,
+        "RelicID": 159,
+        "TagID": 2
+    },
+    {
+        "ID": 104,
+        "Modifier": 3,
+        "RelicID": 160,
+        "TagID": 24
+    },
+    {
+        "ID": 105,
+        "Modifier": 3,
+        "RelicID": 164,
+        "TagID": 38
+    },
+    {
+        "ID": 106,
+        "Modifier": 3,
+        "RelicID": 165,
+        "TagID": 24
+    },
+    {
+        "ID": 107,
+        "Modifier": 3,
+        "RelicID": 165,
+        "TagID": 2
+    },
+    {
+        "ID": 108,
+        "Modifier": 3,
+        "RelicID": 168,
+        "TagID": 38
+    },
+    {
+        "ID": 109,
+        "Modifier": 3,
+        "RelicID": 171,
+        "TagID": 21
+    },
+    {
+        "ID": 110,
+        "Modifier": 2,
+        "RelicID": 171,
+        "TagID": 18
+    },
+    {
+        "ID": 111,
+        "Modifier": 6,
+        "RelicID": 9,
+        "TagID": 28
+    },
+    {
+        "ID": 112,
+        "Modifier": 6,
+        "RelicID": 20,
+        "TagID": 20
+    },
+    {
+        "ID": 113,
+        "Modifier": 6,
+        "RelicID": 33,
+        "TagID": 20
+    },
+    {
+        "ID": 114,
+        "Modifier": -3,
+        "RelicID": 33,
+        "TagID": 27
+    },
+    {
+        "ID": 115,
+        "Modifier": 4,
+        "RelicID": 33,
+        "TagID": 28
+    },
+    {
+        "ID": 116,
+        "Modifier": 6,
+        "RelicID": 36,
+        "TagID": 20
+    },
+    {
+        "ID": 117,
+        "Modifier": 6,
+        "RelicID": 45,
+        "TagID": 20
+    },
+    {
+        "ID": 118,
+        "Modifier": 2,
+        "RelicID": 52,
+        "TagID": 14
+    },
+    {
+        "ID": 119,
+        "Modifier": 6,
+        "RelicID": 55,
+        "TagID": 20
+    },
+    {
+        "ID": 120,
+        "Modifier": 5,
+        "RelicID": 66,
+        "TagID": 20
+    },
+    {
+        "ID": 121,
+        "Modifier": 4,
+        "RelicID": 68,
+        "TagID": 20
+    },
+    {
+        "ID": 122,
+        "Modifier": 4,
+        "RelicID": 68,
+        "TagID": 24
+    },
+    {
+        "ID": 123,
+        "Modifier": 6,
+        "RelicID": 81,
+        "TagID": 20
+    },
+    {
+        "ID": 124,
+        "Modifier": 4,
+        "RelicID": 81,
+        "TagID": 30
+    },
+    {
+        "ID": 125,
+        "Modifier": 5,
+        "RelicID": 100,
+        "TagID": 13
+    },
+    {
+        "ID": 126,
+        "Modifier": 6,
+        "RelicID": 117,
+        "TagID": 20
+    },
+    {
+        "ID": 127,
+        "Modifier": 4,
+        "RelicID": 129,
+        "TagID": 21
+    },
+    {
+        "ID": 128,
+        "Modifier": 5,
+        "RelicID": 132,
+        "TagID": 21
+    },
+    {
+        "ID": 129,
+        "Modifier": 6,
+        "RelicID": 133,
+        "TagID": 20
+    },
+    {
+        "ID": 130,
+        "Modifier": 4,
+        "RelicID": 134,
+        "TagID": 21
+    },
+    {
+        "ID": 131,
+        "Modifier": 6,
+        "RelicID": 135,
+        "TagID": 23
+    },
+    {
+        "ID": 132,
+        "Modifier": 4,
+        "RelicID": 140,
+        "TagID": 20
+    },
+    {
+        "ID": 133,
+        "Modifier": 5,
+        "RelicID": 143,
+        "TagID": 21
+    },
+    {
+        "ID": 134,
+        "Modifier": 6,
+        "RelicID": 143,
+        "TagID": 19
+    },
+    {
+        "ID": 135,
+        "Modifier": 6,
+        "RelicID": 145,
+        "TagID": 20
+    },
+    {
+        "ID": 136,
+        "Modifier": 6,
+        "RelicID": 173,
+        "TagID": 20
+    },
+    {
+        "ID": 137,
+        "Modifier": 2,
+        "RelicID": 173,
+        "TagID": 19
+    },
+    {
+        "ID": 138,
+        "Modifier": 3,
+        "RelicID": 174,
+        "TagID": 9
+    },
+    {
+        "ID": 139,
+        "Modifier": 3,
+        "RelicID": 180,
+        "TagID": 18
+    },
+    {
+        "ID": 140,
+        "Modifier": 4,
+        "RelicID": 12,
+        "TagID": 28
+    },
+    {
+        "ID": 141,
+        "Modifier": 3,
+        "RelicID": 48,
+        "TagID": 34
+    },
+    {
+        "ID": 142,
+        "Modifier": 3,
+        "RelicID": 48,
+        "TagID": 25
+    },
+    {
+        "ID": 143,
+        "Modifier": 3,
+        "RelicID": 93,
+        "TagID": 6
+    },
+    {
+        "ID": 144,
+        "Modifier": 4,
+        "RelicID": 96,
+        "TagID": 37
+    },
+    {
+        "ID": 145,
+        "Modifier": 6,
+        "RelicID": 96,
+        "TagID": 19
+    },
+    {
+        "ID": 146,
+        "Modifier": 4,
+        "RelicID": 98,
+        "TagID": 34
+    },
+    {
+        "ID": 147,
+        "Modifier": 2,
+        "RelicID": 102,
+        "TagID": 38
+    },
+    {
+        "ID": 148,
+        "Modifier": 3,
+        "RelicID": 125,
+        "TagID": 5
+    },
+    {
+        "ID": 149,
+        "Modifier": 3,
+        "RelicID": 176,
+        "TagID": 33
+    },
+    {
+        "ID": 150,
+        "Modifier": 4,
+        "RelicID": 17,
+        "TagID": 6
+    },
+    {
+        "ID": 151,
+        "Modifier": 8,
+        "RelicID": 29,
+        "TagID": 39
+    },
+    {
+        "ID": 152,
+        "Modifier": 3,
+        "RelicID": 32,
+        "TagID": 38
+    },
+    {
+        "ID": 153,
+        "Modifier": 3,
+        "RelicID": 54,
+        "TagID": 21
+    },
+    {
+        "ID": 154,
+        "Modifier": 2,
+        "RelicID": 64,
+        "TagID": 4
+    },
+    {
+        "ID": 155,
+        "Modifier": 4,
+        "RelicID": 87,
+        "TagID": 30
+    },
+    {
+        "ID": 156,
+        "Modifier": 2,
+        "RelicID": 87,
+        "TagID": 29
+    },
+    {
+        "ID": 157,
+        "Modifier": 1,
+        "RelicID": 88,
+        "TagID": 22
+    },
+    {
+        "ID": 158,
+        "Modifier": 3,
+        "RelicID": 106,
+        "TagID": 25
+    },
+    {
+        "ID": 159,
+        "Modifier": 3,
+        "RelicID": 106,
+        "TagID": 1
+    },
+    {
+        "ID": 160,
+        "Modifier": 3,
+        "RelicID": 106,
+        "TagID": 32
+    },
+    {
+        "ID": 161,
+        "Modifier": 4,
+        "RelicID": 141,
+        "TagID": 6
+    },
+    {
+        "ID": 162,
+        "Modifier": 4,
+        "RelicID": 149,
+        "TagID": 29
+    },
+    {
+        "ID": 163,
+        "Modifier": 2,
+        "RelicID": 155,
+        "TagID": 2
+    },
+    {
+        "ID": 164,
+        "Modifier": 2,
+        "RelicID": 170,
+        "TagID": 17
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Cards",
+        "seq": 75
+    },
+    {
+        "name": "Tags",
+        "seq": 39
+    },
+    {
+        "name": "Relics",
+        "seq": 180
+    },
+    {
+        "name": "CardTag_Provided_Rel",
+        "seq": 197
+    },
+    {
+        "name": "CardTag_Affected_Rel",
+        "seq": 170
+    },
+    {
+        "name": "RelicTag_Provided_Rel",
+        "seq": 164
+    }
+]

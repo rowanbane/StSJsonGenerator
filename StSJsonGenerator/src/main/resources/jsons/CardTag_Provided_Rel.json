@@ -1,0 +1,1952 @@
+[
+    {
+        "CardID": 75,
+        "ID": 3,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 75,
+        "ID": 4,
+        "TagID": 4,
+        "Value": 2
+    },
+    {
+        "CardID": 75,
+        "ID": 5,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 74,
+        "ID": 6,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 74,
+        "ID": 7,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 73,
+        "ID": 8,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 73,
+        "ID": 9,
+        "TagID": 3,
+        "Value": 0
+    },
+    {
+        "CardID": 62,
+        "ID": 10,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 62,
+        "ID": 11,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 62,
+        "ID": 12,
+        "TagID": 34,
+        "Value": 0
+    },
+    {
+        "CardID": 19,
+        "ID": 13,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 19,
+        "ID": 14,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 19,
+        "ID": 15,
+        "TagID": 33,
+        "Value": 0
+    },
+    {
+        "CardID": 42,
+        "ID": 16,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 42,
+        "ID": 17,
+        "TagID": 2,
+        "Value": 3
+    },
+    {
+        "CardID": 72,
+        "ID": 18,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 72,
+        "ID": 19,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 70,
+        "ID": 20,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 30,
+        "ID": 21,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 30,
+        "ID": 22,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 30,
+        "ID": 23,
+        "TagID": 5,
+        "Value": 0
+    },
+    {
+        "CardID": 69,
+        "ID": 24,
+        "TagID": 6,
+        "Value": 2
+    },
+    {
+        "CardID": 69,
+        "ID": 25,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 5,
+        "ID": 26,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 5,
+        "ID": 27,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 5,
+        "ID": 28,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 56,
+        "ID": 29,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 43,
+        "ID": 30,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 43,
+        "ID": 31,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 57,
+        "ID": 32,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 57,
+        "ID": 33,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 31,
+        "ID": 34,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 31,
+        "ID": 35,
+        "TagID": 3,
+        "Value": 0
+    },
+    {
+        "CardID": 40,
+        "ID": 36,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 40,
+        "ID": 37,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 40,
+        "ID": 38,
+        "TagID": 3,
+        "Value": 0
+    },
+    {
+        "CardID": 21,
+        "ID": 39,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 21,
+        "ID": 40,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 21,
+        "ID": 41,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 69,
+        "ID": 42,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 51,
+        "ID": 43,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 65,
+        "ID": 44,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 45,
+        "ID": 45,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 58,
+        "ID": 46,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 41,
+        "ID": 47,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 66,
+        "ID": 48,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 16,
+        "ID": 49,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 47,
+        "ID": 50,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 34,
+        "ID": 51,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 7,
+        "ID": 52,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 23,
+        "ID": 53,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 67,
+        "ID": 54,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 35,
+        "ID": 55,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 29,
+        "ID": 56,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 44,
+        "ID": 57,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 24,
+        "ID": 58,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 2,
+        "ID": 59,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 48,
+        "ID": 60,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 10,
+        "ID": 61,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 60,
+        "ID": 62,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 17,
+        "ID": 63,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 15,
+        "ID": 64,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 68,
+        "ID": 65,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 25,
+        "ID": 66,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 54,
+        "ID": 67,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 28,
+        "ID": 68,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 39,
+        "ID": 69,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 27,
+        "ID": 70,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 22,
+        "ID": 71,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 59,
+        "ID": 72,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 38,
+        "ID": 73,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 52,
+        "ID": 74,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 64,
+        "ID": 75,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 63,
+        "ID": 76,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 13,
+        "ID": 77,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 8,
+        "ID": 78,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 6,
+        "ID": 79,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 53,
+        "ID": 80,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 12,
+        "ID": 81,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 18,
+        "ID": 82,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 11,
+        "ID": 83,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 49,
+        "ID": 84,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 26,
+        "ID": 85,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 71,
+        "ID": 86,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 9,
+        "ID": 87,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 61,
+        "ID": 88,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 1,
+        "ID": 89,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 14,
+        "ID": 90,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 55,
+        "ID": 91,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 4,
+        "ID": 92,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 33,
+        "ID": 93,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 32,
+        "ID": 94,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 46,
+        "ID": 95,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 37,
+        "ID": 96,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 36,
+        "ID": 97,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 50,
+        "ID": 98,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 20,
+        "ID": 99,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 3,
+        "ID": 100,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 23,
+        "ID": 101,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 17,
+        "ID": 102,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 63,
+        "ID": 103,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 53,
+        "ID": 104,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 12,
+        "ID": 105,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 11,
+        "ID": 106,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 32,
+        "ID": 107,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 46,
+        "ID": 108,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 37,
+        "ID": 109,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 36,
+        "ID": 110,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 3,
+        "ID": 111,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 9,
+        "ID": 112,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 14,
+        "ID": 113,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 41,
+        "ID": 114,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 16,
+        "ID": 115,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 34,
+        "ID": 116,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 28,
+        "ID": 117,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 59,
+        "ID": 118,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 52,
+        "ID": 119,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 71,
+        "ID": 120,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 61,
+        "ID": 121,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 20,
+        "ID": 122,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 51,
+        "ID": 123,
+        "TagID": 26,
+        "Value": 0
+    },
+    {
+        "CardID": 65,
+        "ID": 124,
+        "TagID": 4,
+        "Value": 0
+    },
+    {
+        "CardID": 45,
+        "ID": 125,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 45,
+        "ID": 126,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 58,
+        "ID": 127,
+        "TagID": 3,
+        "Value": 0
+    },
+    {
+        "CardID": 58,
+        "ID": 128,
+        "TagID": 26,
+        "Value": 0
+    },
+    {
+        "CardID": 41,
+        "ID": 129,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 66,
+        "ID": 130,
+        "TagID": 30,
+        "Value": 0
+    },
+    {
+        "CardID": 16,
+        "ID": 131,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 34,
+        "ID": 132,
+        "TagID": 27,
+        "Value": 0
+    },
+    {
+        "CardID": 34,
+        "ID": 133,
+        "TagID": 20,
+        "Value": 0
+    },
+    {
+        "CardID": 7,
+        "ID": 134,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 7,
+        "ID": 135,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 67,
+        "ID": 136,
+        "TagID": 27,
+        "Value": 0
+    },
+    {
+        "CardID": 35,
+        "ID": 137,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 29,
+        "ID": 138,
+        "TagID": 38,
+        "Value": 0
+    },
+    {
+        "CardID": 29,
+        "ID": 139,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 44,
+        "ID": 140,
+        "TagID": 21,
+        "Value": 1
+    },
+    {
+        "CardID": 24,
+        "ID": 141,
+        "TagID": 37,
+        "Value": 2
+    },
+    {
+        "CardID": 2,
+        "ID": 142,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 48,
+        "ID": 143,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 10,
+        "ID": 144,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 17,
+        "ID": 145,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 15,
+        "ID": 146,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 68,
+        "ID": 147,
+        "TagID": 27,
+        "Value": 0
+    },
+    {
+        "CardID": 25,
+        "ID": 148,
+        "TagID": 34,
+        "Value": 0
+    },
+    {
+        "CardID": 25,
+        "ID": 149,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 54,
+        "ID": 150,
+        "TagID": 6,
+        "Value": 0
+    },
+    {
+        "CardID": 28,
+        "ID": 151,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 28,
+        "ID": 152,
+        "TagID": 5,
+        "Value": 0
+    },
+    {
+        "CardID": 39,
+        "ID": 153,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 27,
+        "ID": 154,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 27,
+        "ID": 155,
+        "TagID": 30,
+        "Value": 0
+    },
+    {
+        "CardID": 22,
+        "ID": 156,
+        "TagID": 26,
+        "Value": 0
+    },
+    {
+        "CardID": 22,
+        "ID": 157,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 59,
+        "ID": 158,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 59,
+        "ID": 159,
+        "TagID": 35,
+        "Value": 0
+    },
+    {
+        "CardID": 52,
+        "ID": 160,
+        "TagID": 30,
+        "Value": 0
+    },
+    {
+        "CardID": 64,
+        "ID": 161,
+        "TagID": 6,
+        "Value": 0
+    },
+    {
+        "CardID": 13,
+        "ID": 162,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 13,
+        "ID": 163,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 8,
+        "ID": 164,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 8,
+        "ID": 165,
+        "TagID": 20,
+        "Value": 0
+    },
+    {
+        "CardID": 6,
+        "ID": 166,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 6,
+        "ID": 167,
+        "TagID": 20,
+        "Value": 0
+    },
+    {
+        "CardID": 53,
+        "ID": 168,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 12,
+        "ID": 169,
+        "TagID": 5,
+        "Value": 0
+    },
+    {
+        "CardID": 12,
+        "ID": 170,
+        "TagID": 4,
+        "Value": 0
+    },
+    {
+        "CardID": 12,
+        "ID": 171,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 18,
+        "ID": 172,
+        "TagID": 6,
+        "Value": 0
+    },
+    {
+        "CardID": 11,
+        "ID": 173,
+        "TagID": 5,
+        "Value": 0
+    },
+    {
+        "CardID": 11,
+        "ID": 174,
+        "TagID": 4,
+        "Value": 0
+    },
+    {
+        "CardID": 49,
+        "ID": 175,
+        "TagID": 39,
+        "Value": 0
+    },
+    {
+        "CardID": 71,
+        "ID": 176,
+        "TagID": 20,
+        "Value": 0
+    },
+    {
+        "CardID": 61,
+        "ID": 177,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 61,
+        "ID": 178,
+        "TagID": 27,
+        "Value": 0
+    },
+    {
+        "CardID": 1,
+        "ID": 179,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 14,
+        "ID": 180,
+        "TagID": 6,
+        "Value": 0
+    },
+    {
+        "CardID": 55,
+        "ID": 181,
+        "TagID": 35,
+        "Value": 0
+    },
+    {
+        "CardID": 4,
+        "ID": 182,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 33,
+        "ID": 183,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 33,
+        "ID": 184,
+        "TagID": 28,
+        "Value": 0
+    },
+    {
+        "CardID": 32,
+        "ID": 185,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 32,
+        "ID": 186,
+        "TagID": 26,
+        "Value": 0
+    },
+    {
+        "CardID": 46,
+        "ID": 187,
+        "TagID": 30,
+        "Value": 0
+    },
+    {
+        "CardID": 37,
+        "ID": 188,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 37,
+        "ID": 189,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 50,
+        "ID": 190,
+        "TagID": 6,
+        "Value": 0
+    },
+    {
+        "CardID": 50,
+        "ID": 191,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 20,
+        "ID": 192,
+        "TagID": 27,
+        "Value": 0
+    },
+    {
+        "CardID": 20,
+        "ID": 193,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 20,
+        "ID": 194,
+        "TagID": 20,
+        "Value": 0
+    },
+    {
+        "CardID": 20,
+        "ID": 195,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 3,
+        "ID": 196,
+        "TagID": 28,
+        "Value": 0
+    },
+    {
+        "CardID": 3,
+        "ID": 197,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 126,
+        "ID": 198,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 95,
+        "ID": 199,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 98,
+        "ID": 200,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 112,
+        "ID": 201,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 104,
+        "ID": 202,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 128,
+        "ID": 203,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 108,
+        "ID": 204,
+        "TagID": 1,
+        "Value": 0
+    },
+    {
+        "CardID": 97,
+        "ID": 205,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 100,
+        "ID": 206,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 106,
+        "ID": 207,
+        "TagID": 2,
+        "Value": 0
+    },
+    {
+        "CardID": 94,
+        "ID": 208,
+        "TagID": 34,
+        "Value": 0
+    },
+    {
+        "CardID": 102,
+        "ID": 209,
+        "TagID": 34,
+        "Value": 0
+    },
+    {
+        "CardID": 111,
+        "ID": 210,
+        "TagID": 34,
+        "Value": 0
+    },
+    {
+        "CardID": 116,
+        "ID": 211,
+        "TagID": 34,
+        "Value": 0
+    },
+    {
+        "CardID": 123,
+        "ID": 212,
+        "TagID": 34,
+        "Value": 0
+    },
+    {
+        "CardID": 124,
+        "ID": 213,
+        "TagID": 34,
+        "Value": 0
+    },
+    {
+        "CardID": 76,
+        "ID": 214,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 77,
+        "ID": 215,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 78,
+        "ID": 216,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 79,
+        "ID": 217,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 80,
+        "ID": 218,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 81,
+        "ID": 219,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 82,
+        "ID": 220,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 83,
+        "ID": 221,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 84,
+        "ID": 222,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 85,
+        "ID": 223,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 86,
+        "ID": 224,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 87,
+        "ID": 225,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 88,
+        "ID": 226,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 89,
+        "ID": 227,
+        "TagID": 36,
+        "Value": 0
+    },
+    {
+        "CardID": 93,
+        "ID": 228,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 97,
+        "ID": 229,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 98,
+        "ID": 230,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 101,
+        "ID": 231,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 114,
+        "ID": 232,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 119,
+        "ID": 233,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 122,
+        "ID": 234,
+        "TagID": 21,
+        "Value": 0
+    },
+    {
+        "CardID": 90,
+        "ID": 235,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 92,
+        "ID": 236,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 94,
+        "ID": 237,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 95,
+        "ID": 238,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 102,
+        "ID": 239,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 103,
+        "ID": 240,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 105,
+        "ID": 241,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 107,
+        "ID": 242,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 110,
+        "ID": 243,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 111,
+        "ID": 244,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 114,
+        "ID": 245,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 116,
+        "ID": 246,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 119,
+        "ID": 247,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 122,
+        "ID": 248,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 123,
+        "ID": 249,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 124,
+        "ID": 250,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 125,
+        "ID": 251,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 128,
+        "ID": 252,
+        "TagID": 29,
+        "Value": 0
+    },
+    {
+        "CardID": 111,
+        "ID": 253,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 112,
+        "ID": 254,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 116,
+        "ID": 255,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 121,
+        "ID": 256,
+        "TagID": 19,
+        "Value": 0
+    },
+    {
+        "CardID": 90,
+        "ID": 257,
+        "TagID": 28,
+        "Value": 0
+    },
+    {
+        "CardID": 126,
+        "ID": 258,
+        "TagID": 28,
+        "Value": 0
+    },
+    {
+        "CardID": 127,
+        "ID": 259,
+        "TagID": 27,
+        "Value": 0
+    },
+    {
+        "CardID": 90,
+        "ID": 260,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 91,
+        "ID": 261,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 92,
+        "ID": 262,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 93,
+        "ID": 263,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 95,
+        "ID": 264,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 96,
+        "ID": 265,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 97,
+        "ID": 266,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 98,
+        "ID": 267,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 99,
+        "ID": 268,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 100,
+        "ID": 269,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 101,
+        "ID": 270,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 102,
+        "ID": 271,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 105,
+        "ID": 272,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 106,
+        "ID": 273,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 107,
+        "ID": 274,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 108,
+        "ID": 275,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 109,
+        "ID": 276,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 114,
+        "ID": 277,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 117,
+        "ID": 278,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 118,
+        "ID": 279,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 119,
+        "ID": 280,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 120,
+        "ID": 281,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 122,
+        "ID": 282,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 124,
+        "ID": 283,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 127,
+        "ID": 284,
+        "TagID": 18,
+        "Value": 0
+    },
+    {
+        "CardID": 92,
+        "ID": 285,
+        "TagID": 38,
+        "Value": 0
+    },
+    {
+        "CardID": 105,
+        "ID": 286,
+        "TagID": 38,
+        "Value": 0
+    },
+    {
+        "CardID": 125,
+        "ID": 287,
+        "TagID": 38,
+        "Value": 0
+    },
+    {
+        "CardID": 113,
+        "ID": 288,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 115,
+        "ID": 289,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 117,
+        "ID": 290,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 118,
+        "ID": 291,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 117,
+        "ID": 292,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 118,
+        "ID": 293,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 113,
+        "ID": 294,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 115,
+        "ID": 295,
+        "TagID": 25,
+        "Value": 0
+    },
+    {
+        "CardID": 110,
+        "ID": 296,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 125,
+        "ID": 297,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 90,
+        "ID": 298,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 91,
+        "ID": 299,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 111,
+        "ID": 300,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 92,
+        "ID": 301,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 93,
+        "ID": 302,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 94,
+        "ID": 303,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 96,
+        "ID": 304,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 97,
+        "ID": 305,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 99,
+        "ID": 306,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 100,
+        "ID": 307,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 101,
+        "ID": 308,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 127,
+        "ID": 309,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 102,
+        "ID": 310,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 103,
+        "ID": 311,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 114,
+        "ID": 312,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 116,
+        "ID": 313,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 105,
+        "ID": 314,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 106,
+        "ID": 315,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 107,
+        "ID": 316,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 119,
+        "ID": 317,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 120,
+        "ID": 318,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 121,
+        "ID": 319,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 122,
+        "ID": 320,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 123,
+        "ID": 321,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 109,
+        "ID": 322,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 124,
+        "ID": 323,
+        "TagID": 32,
+        "Value": 0
+    },
+    {
+        "CardID": 127,
+        "ID": 324,
+        "TagID": 6,
+        "Value": 0
+    },
+    {
+        "CardID": 110,
+        "ID": 325,
+        "TagID": 33,
+        "Value": 5
+    },
+    {
+        "CardID": 109,
+        "ID": 326,
+        "TagID": 4,
+        "Value": 0
+    },
+    {
+        "CardID": 91,
+        "ID": 327,
+        "TagID": 5,
+        "Value": 0
+    }
+]

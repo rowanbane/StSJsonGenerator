@@ -1,0 +1,197 @@
+[
+    {
+        "BaseValue": 4,
+        "ID": 1,
+        "TagName": "attack"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 2,
+        "TagName": "block"
+    },
+    {
+        "BaseValue": 2,
+        "ID": 3,
+        "TagName": "strike"
+    },
+    {
+        "BaseValue": 3,
+        "ID": 4,
+        "TagName": "vulnerability"
+    },
+    {
+        "BaseValue": 2,
+        "ID": 5,
+        "TagName": "weak"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 6,
+        "TagName": "strength"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 7,
+        "TagName": "dexterity"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 8,
+        "TagName": "focus"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 9,
+        "TagName": "calm"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 10,
+        "TagName": "wrath"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 11,
+        "TagName": "lightningorb"
+    },
+    {
+        "BaseValue": 2,
+        "ID": 12,
+        "TagName": "darknessorb"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 13,
+        "TagName": "plasmaorb"
+    },
+    {
+        "BaseValue": 3,
+        "ID": 14,
+        "TagName": "frostorb"
+    },
+    {
+        "BaseValue": 1,
+        "ID": 15,
+        "TagName": "mark"
+    },
+    {
+        "BaseValue": 2,
+        "ID": 16,
+        "TagName": "mantra"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 17,
+        "TagName": "poison"
+    },
+    {
+        "BaseValue": 3,
+        "ID": 18,
+        "TagName": "lowcost"
+    },
+    {
+        "BaseValue": 2,
+        "ID": 19,
+        "TagName": "highcost"
+    },
+    {
+        "BaseValue": 5,
+        "ID": 20,
+        "TagName": "energy"
+    },
+    {
+        "BaseValue": 5,
+        "ID": 21,
+        "TagName": "draw"
+    },
+    {
+        "BaseValue": 2,
+        "ID": 22,
+        "TagName": "scry"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 23,
+        "TagName": "potion"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 24,
+        "TagName": "discard"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 25,
+        "TagName": "power"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 26,
+        "TagName": "multihit"
+    },
+    {
+        "BaseValue": 0,
+        "ID": 27,
+        "TagName": "hploss"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 28,
+        "TagName": "hpgain"
+    },
+    {
+        "BaseValue": 3,
+        "ID": 29,
+        "TagName": "exhaust"
+    },
+    {
+        "BaseValue": 2,
+        "ID": 30,
+        "TagName": "status"
+    },
+    {
+        "BaseValue": 3,
+        "ID": 31,
+        "TagName": "retain"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 32,
+        "TagName": "skill"
+    },
+    {
+        "BaseValue": 2,
+        "ID": 33,
+        "TagName": "upgrade"
+    },
+    {
+        "BaseValue": 3,
+        "ID": 34,
+        "TagName": "cardgeneration"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 35,
+        "TagName": "attackbuff"
+    },
+    {
+        "BaseValue": 0,
+        "ID": 36,
+        "TagName": "curse"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 37,
+        "TagName": "cardduplication"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 38,
+        "TagName": "mitigation"
+    },
+    {
+        "BaseValue": 4,
+        "ID": 39,
+        "TagName": "energyscaling"
+    }
+]

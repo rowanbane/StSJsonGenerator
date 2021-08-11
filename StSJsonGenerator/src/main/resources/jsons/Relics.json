@@ -1,0 +1,722 @@
+[
+    {
+        "ID": 1,
+        "RelicName": "Akabeko"
+    },
+    {
+        "ID": 2,
+        "RelicName": "Anchor"
+    },
+    {
+        "ID": 3,
+        "RelicName": "Ancient Tea Set"
+    },
+    {
+        "ID": 4,
+        "RelicName": "Art of War"
+    },
+    {
+        "ID": 5,
+        "RelicName": "Astrolabe"
+    },
+    {
+        "ID": 6,
+        "RelicName": "Bag of Marbles"
+    },
+    {
+        "ID": 7,
+        "RelicName": "Bag of Preparation"
+    },
+    {
+        "ID": 8,
+        "RelicName": "Bird-Faced Urn"
+    },
+    {
+        "ID": 9,
+        "RelicName": "Black Blood"
+    },
+    {
+        "ID": 10,
+        "RelicName": "Black Star"
+    },
+    {
+        "ID": 11,
+        "RelicName": "Blood Vial"
+    },
+    {
+        "ID": 12,
+        "RelicName": "Bloody Idol"
+    },
+    {
+        "ID": 13,
+        "RelicName": "Blue Candle"
+    },
+    {
+        "ID": 14,
+        "RelicName": "Bottled Flame"
+    },
+    {
+        "ID": 15,
+        "RelicName": "Bottled Lightning"
+    },
+    {
+        "ID": 16,
+        "RelicName": "Bottled Tornado"
+    },
+    {
+        "ID": 17,
+        "RelicName": "Brimstone"
+    },
+    {
+        "ID": 18,
+        "RelicName": "Bronze Scales"
+    },
+    {
+        "ID": 19,
+        "RelicName": "Burning Blood"
+    },
+    {
+        "ID": 20,
+        "RelicName": "Busted Crown"
+    },
+    {
+        "ID": 21,
+        "RelicName": "Calipers"
+    },
+    {
+        "ID": 22,
+        "RelicName": "Calling Bell"
+    },
+    {
+        "ID": 23,
+        "RelicName": "Captain's Wheel"
+    },
+    {
+        "ID": 24,
+        "RelicName": "Cauldron"
+    },
+    {
+        "ID": 25,
+        "RelicName": "Centennial Puzzle"
+    },
+    {
+        "ID": 26,
+        "RelicName": "Ceramic Fish"
+    },
+    {
+        "ID": 27,
+        "RelicName": "Champion Belt"
+    },
+    {
+        "ID": 28,
+        "RelicName": "Charon's Ashes"
+    },
+    {
+        "ID": 29,
+        "RelicName": "Chemical X"
+    },
+    {
+        "ID": 30,
+        "RelicName": "Circlet"
+    },
+    {
+        "ID": 31,
+        "RelicName": "Cloak Clasp"
+    },
+    {
+        "ID": 32,
+        "RelicName": "Clockwork Souvenir"
+    },
+    {
+        "ID": 33,
+        "RelicName": "Coffee Dripper"
+    },
+    {
+        "ID": 34,
+        "RelicName": "Cracked Core"
+    },
+    {
+        "ID": 35,
+        "RelicName": "Cultist Headpiece"
+    },
+    {
+        "ID": 36,
+        "RelicName": "Cursed Key"
+    },
+    {
+        "ID": 37,
+        "RelicName": "Damaru"
+    },
+    {
+        "ID": 38,
+        "RelicName": "Darkstone Periapt"
+    },
+    {
+        "ID": 39,
+        "RelicName": "Data Disk"
+    },
+    {
+        "ID": 40,
+        "RelicName": "Dead Branch"
+    },
+    {
+        "ID": 41,
+        "RelicName": "Dolly's Mirror"
+    },
+    {
+        "ID": 42,
+        "RelicName": "Dream Catcher"
+    },
+    {
+        "ID": 43,
+        "RelicName": "Du-Vu Doll"
+    },
+    {
+        "ID": 44,
+        "RelicName": "Duality"
+    },
+    {
+        "ID": 45,
+        "RelicName": "Ectoplasm"
+    },
+    {
+        "ID": 46,
+        "RelicName": "Emotion Chip"
+    },
+    {
+        "ID": 47,
+        "RelicName": "Empty Cage"
+    },
+    {
+        "ID": 48,
+        "RelicName": "Enchiridion"
+    },
+    {
+        "ID": 49,
+        "RelicName": "Eternal Feather"
+    },
+    {
+        "ID": 50,
+        "RelicName": "Face of Cleric"
+    },
+    {
+        "ID": 51,
+        "RelicName": "Fossilized Helix"
+    },
+    {
+        "ID": 52,
+        "RelicName": "Frozen Core"
+    },
+    {
+        "ID": 53,
+        "RelicName": "Frozen Egg"
+    },
+    {
+        "ID": 54,
+        "RelicName": "Frozen Eye"
+    },
+    {
+        "ID": 55,
+        "RelicName": "Fusion Hammer"
+    },
+    {
+        "ID": 56,
+        "RelicName": "Gambling Chip"
+    },
+    {
+        "ID": 57,
+        "RelicName": "Ginger"
+    },
+    {
+        "ID": 58,
+        "RelicName": "Girya"
+    },
+    {
+        "ID": 59,
+        "RelicName": "Gold-Plated Cables"
+    },
+    {
+        "ID": 60,
+        "RelicName": "Golden Eye"
+    },
+    {
+        "ID": 61,
+        "RelicName": "Golden Idol (Relic)"
+    },
+    {
+        "ID": 62,
+        "RelicName": "Gremlin Horn"
+    },
+    {
+        "ID": 63,
+        "RelicName": "Gremlin Visage"
+    },
+    {
+        "ID": 64,
+        "RelicName": "Hand Drill"
+    },
+    {
+        "ID": 65,
+        "RelicName": "Happy Flower"
+    },
+    {
+        "ID": 66,
+        "RelicName": "Holy Water"
+    },
+    {
+        "ID": 67,
+        "RelicName": "Horn Cleat"
+    },
+    {
+        "ID": 68,
+        "RelicName": "Hovering Kite"
+    },
+    {
+        "ID": 69,
+        "RelicName": "Ice Cream"
+    },
+    {
+        "ID": 70,
+        "RelicName": "Incense Burner"
+    },
+    {
+        "ID": 71,
+        "RelicName": "Ink Bottle"
+    },
+    {
+        "ID": 72,
+        "RelicName": "Inserter"
+    },
+    {
+        "ID": 73,
+        "RelicName": "Juzu Bracelet"
+    },
+    {
+        "ID": 74,
+        "RelicName": "Kunai"
+    },
+    {
+        "ID": 75,
+        "RelicName": "Lantern"
+    },
+    {
+        "ID": 76,
+        "RelicName": "Lee's Waffle"
+    },
+    {
+        "ID": 77,
+        "RelicName": "Letter Opener"
+    },
+    {
+        "ID": 78,
+        "RelicName": "Lizard Tail"
+    },
+    {
+        "ID": 79,
+        "RelicName": "Magic Flower"
+    },
+    {
+        "ID": 80,
+        "RelicName": "Mango"
+    },
+    {
+        "ID": 81,
+        "RelicName": "Mark of Pain"
+    },
+    {
+        "ID": 82,
+        "RelicName": "Mark of the Bloom"
+    },
+    {
+        "ID": 83,
+        "RelicName": "Matryoshka"
+    },
+    {
+        "ID": 84,
+        "RelicName": "Maw Bank"
+    },
+    {
+        "ID": 85,
+        "RelicName": "Meal Ticket"
+    },
+    {
+        "ID": 86,
+        "RelicName": "Meat on the Bone"
+    },
+    {
+        "ID": 87,
+        "RelicName": "Medical Kit"
+    },
+    {
+        "ID": 88,
+        "RelicName": "Melange"
+    },
+    {
+        "ID": 89,
+        "RelicName": "Membership Card"
+    },
+    {
+        "ID": 90,
+        "RelicName": "Mercury Hourglass"
+    },
+    {
+        "ID": 91,
+        "RelicName": "Molten Egg"
+    },
+    {
+        "ID": 92,
+        "RelicName": "Mummified Hand"
+    },
+    {
+        "ID": 93,
+        "RelicName": "Mutagenic Strength"
+    },
+    {
+        "ID": 94,
+        "RelicName": "N'loth's Gift"
+    },
+    {
+        "ID": 95,
+        "RelicName": "N'loth's Hungry Face"
+    },
+    {
+        "ID": 96,
+        "RelicName": "Necronomicon"
+    },
+    {
+        "ID": 97,
+        "RelicName": "Neow's Lament"
+    },
+    {
+        "ID": 98,
+        "RelicName": "Nilry's Codex"
+    },
+    {
+        "ID": 99,
+        "RelicName": "Ninja Scroll"
+    },
+    {
+        "ID": 100,
+        "RelicName": "Nuclear Battery"
+    },
+    {
+        "ID": 101,
+        "RelicName": "Nunchaku"
+    },
+    {
+        "ID": 102,
+        "RelicName": "Odd Mushroom"
+    },
+    {
+        "ID": 103,
+        "RelicName": "Oddly Smooth Stone"
+    },
+    {
+        "ID": 104,
+        "RelicName": "Old Coin"
+    },
+    {
+        "ID": 105,
+        "RelicName": "Omamori"
+    },
+    {
+        "ID": 106,
+        "RelicName": "Orange Pellets"
+    },
+    {
+        "ID": 107,
+        "RelicName": "Orichalcum"
+    },
+    {
+        "ID": 108,
+        "RelicName": "Ornamental Fan"
+    },
+    {
+        "ID": 109,
+        "RelicName": "Orrery"
+    },
+    {
+        "ID": 110,
+        "RelicName": "Pandora's Box"
+    },
+    {
+        "ID": 111,
+        "RelicName": "Pantograph"
+    },
+    {
+        "ID": 112,
+        "RelicName": "Paper Krane"
+    },
+    {
+        "ID": 113,
+        "RelicName": "Paper Phrog"
+    },
+    {
+        "ID": 114,
+        "RelicName": "Peace Pipe"
+    },
+    {
+        "ID": 115,
+        "RelicName": "Pear"
+    },
+    {
+        "ID": 116,
+        "RelicName": "Pen Nib"
+    },
+    {
+        "ID": 117,
+        "RelicName": "Philosopher's Stone"
+    },
+    {
+        "ID": 118,
+        "RelicName": "Pocketwatch"
+    },
+    {
+        "ID": 119,
+        "RelicName": "Potion Belt"
+    },
+    {
+        "ID": 120,
+        "RelicName": "Prayer Wheel"
+    },
+    {
+        "ID": 121,
+        "RelicName": "Preserved Insect"
+    },
+    {
+        "ID": 122,
+        "RelicName": "Prismatic Shard"
+    },
+    {
+        "ID": 123,
+        "RelicName": "Pure Water"
+    },
+    {
+        "ID": 124,
+        "RelicName": "Question Card"
+    },
+    {
+        "ID": 125,
+        "RelicName": "Red Mask"
+    },
+    {
+        "ID": 126,
+        "RelicName": "Red Skull"
+    },
+    {
+        "ID": 127,
+        "RelicName": "Regal Pillow"
+    },
+    {
+        "ID": 128,
+        "RelicName": "Relics"
+    },
+    {
+        "ID": 129,
+        "RelicName": "Ring of the Serpent"
+    },
+    {
+        "ID": 130,
+        "RelicName": "Ring of the Snake"
+    },
+    {
+        "ID": 131,
+        "RelicName": "Runic Capacitor"
+    },
+    {
+        "ID": 132,
+        "RelicName": "Runic Cube"
+    },
+    {
+        "ID": 133,
+        "RelicName": "Runic Dome"
+    },
+    {
+        "ID": 134,
+        "RelicName": "Runic Pyramid"
+    },
+    {
+        "ID": 135,
+        "RelicName": "Sacred Bark"
+    },
+    {
+        "ID": 136,
+        "RelicName": "Self-Forming Clay"
+    },
+    {
+        "ID": 137,
+        "RelicName": "Shovel"
+    },
+    {
+        "ID": 138,
+        "RelicName": "Shuriken"
+    },
+    {
+        "ID": 139,
+        "RelicName": "Singing Bowl"
+    },
+    {
+        "ID": 140,
+        "RelicName": "Slaver's Collar"
+    },
+    {
+        "ID": 141,
+        "RelicName": "Sling of Courage"
+    },
+    {
+        "ID": 142,
+        "RelicName": "Smiling Mask"
+    },
+    {
+        "ID": 143,
+        "RelicName": "Snecko Eye"
+    },
+    {
+        "ID": 144,
+        "RelicName": "Snecko Skull"
+    },
+    {
+        "ID": 145,
+        "RelicName": "Sozu"
+    },
+    {
+        "ID": 146,
+        "RelicName": "Spirit Poop"
+    },
+    {
+        "ID": 147,
+        "RelicName": "Ssserpent Head"
+    },
+    {
+        "ID": 148,
+        "RelicName": "Stone Calendar"
+    },
+    {
+        "ID": 149,
+        "RelicName": "Strange Spoon"
+    },
+    {
+        "ID": 150,
+        "RelicName": "Strawberry"
+    },
+    {
+        "ID": 151,
+        "RelicName": "Strike Dummy"
+    },
+    {
+        "ID": 152,
+        "RelicName": "Sundial"
+    },
+    {
+        "ID": 153,
+        "RelicName": "Symbiotic Virus"
+    },
+    {
+        "ID": 154,
+        "RelicName": "Teardrop Locket"
+    },
+    {
+        "ID": 155,
+        "RelicName": "The Abacus"
+    },
+    {
+        "ID": 156,
+        "RelicName": "The Boot"
+    },
+    {
+        "ID": 157,
+        "RelicName": "The Courier"
+    },
+    {
+        "ID": 158,
+        "RelicName": "The Specimen"
+    },
+    {
+        "ID": 159,
+        "RelicName": "Thread and Needle"
+    },
+    {
+        "ID": 160,
+        "RelicName": "Tingsha"
+    },
+    {
+        "ID": 161,
+        "RelicName": "Tiny Chest"
+    },
+    {
+        "ID": 162,
+        "RelicName": "Tiny House"
+    },
+    {
+        "ID": 163,
+        "RelicName": "Toolbox"
+    },
+    {
+        "ID": 164,
+        "RelicName": "Torii"
+    },
+    {
+        "ID": 165,
+        "RelicName": "Tough Bandages"
+    },
+    {
+        "ID": 166,
+        "RelicName": "Toxic Egg"
+    },
+    {
+        "ID": 167,
+        "RelicName": "Toy Ornithopter"
+    },
+    {
+        "ID": 168,
+        "RelicName": "Tungsten Rod"
+    },
+    {
+        "ID": 169,
+        "RelicName": "Turnip"
+    },
+    {
+        "ID": 170,
+        "RelicName": "Twisted Funnel"
+    },
+    {
+        "ID": 171,
+        "RelicName": "Unceasing Top"
+    },
+    {
+        "ID": 172,
+        "RelicName": "Vajra"
+    },
+    {
+        "ID": 173,
+        "RelicName": "Velvet Choker"
+    },
+    {
+        "ID": 174,
+        "RelicName": "Violet Lotus"
+    },
+    {
+        "ID": 175,
+        "RelicName": "War Paint"
+    },
+    {
+        "ID": 176,
+        "RelicName": "Warped Tongs"
+    },
+    {
+        "ID": 177,
+        "RelicName": "Whetstone"
+    },
+    {
+        "ID": 178,
+        "RelicName": "White Beast Statue"
+    },
+    {
+        "ID": 179,
+        "RelicName": "Wing Boots"
+    },
+    {
+        "ID": 180,
+        "RelicName": "Wrist Blade"
+    }
+]
